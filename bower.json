@@ -17,12 +17,12 @@
     "tests"
   ],
   "dependencies": {
-    "epack-fill-blank": "ePack/fill-blank#~0.0.2",
-    "epack-alpha-picker": "ePack/alpha-picker#~0.0.1",
-    "epack-four-quarter": "ePack/four-quarter#~0.0.1",
-    "epack-multi-select": "ePack/multi-select#~0.0.1",
-    "epack-single-select": "ePack/single-select#~0.0.1",
-    "epack-number-picker": "ePack/number-picker#~0.0.1",
-    "epack-yes-no": "ePack/yes-no#~0.0.1"
+    "epack-fill-blank": "ePack/fill-blank#0.0.2",
+    "epack-alpha-picker": "ePack/alpha-picker#0.0.2",
+    "epack-four-quarter": "ePack/four-quarter#0.0.2",
+    "epack-multi-select": "ePack/multi-select#0.0.2",
+    "epack-single-select": "ePack/single-select#0.0.2",
+    "epack-number-picker": "ePack/number-picker#0.0.2",
+    "epack-yes-no": "ePack/yes-no#0.0.2"
   }
 }
