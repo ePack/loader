@@ -1,5 +1,6 @@
 {
   "name": "epack-loader",
+  "version": "0.0.3",
   "homepage": "https://eclip.io",
   "authors": [
     "Maik Hummel <maik@eclip.io>"
